@@ -1,0 +1,6 @@
+{
+  "name": "한양고속 총무 워크스페이스 & AI 파트너 한양",
+  "description": "한양고속 총무 14대 업무 대장(식권·임금소급·경비승인·법인카드 등), 4,253건 사내 NAS 문서 색인 검색기, 전용 AI 비서 한양(Hanyang) 통합 워크스페이스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

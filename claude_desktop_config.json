@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "hanyang-excel-brain": {
+      "command": "python",
+      "args": ["src/mcp/hanyang_fastmcp_server.py"],
+      "env": {
+        "NAS_ROOT": "Y:\\총무\\한양고속\\유종열"
+      }
+    }
+  }
+}

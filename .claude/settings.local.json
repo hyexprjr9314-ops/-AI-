@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "mcp__1575d97f-76f9-4841-a5e2-d96b52fc1311__create_label",
+      "mcp__1575d97f-76f9-4841-a5e2-d96b52fc1311__search_threads",
+      "mcp__1575d97f-76f9-4841-a5e2-d96b52fc1311__label_thread",
+      "mcp__1575d97f-76f9-4841-a5e2-d96b52fc1311__trash_thread",
+      "Skill(claude-api)",
+      "Skill(claude-api:*)"
+    ]
+  }
+}
